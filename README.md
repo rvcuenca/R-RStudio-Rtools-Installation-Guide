@@ -22,5 +22,6 @@ To guide you through the setup, please refer to the following resources
 - [Installing, Using, and Removing R
   Packages](installing-using-and-removing-rpackages.html)
 - [Required Packages for Training](required-packages-for-training.html)
+- [Installing Git Version Control](installing-git-version-control.html)
 
 We look forward to your participation in the training.
