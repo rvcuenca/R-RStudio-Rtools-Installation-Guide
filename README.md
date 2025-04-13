@@ -18,10 +18,13 @@ to reach out via email: <rey.cuenca@g.msuiit.edu.ph>.
 To guide you through the setup, please refer to the following resources
 ***in order***:
 
-- [Installation Guide](installation-guide.html)
+- [Installation
+  Guide](https://rvcuenca.github.io/R-RStudio-Rtools-Installation-Guide/installation-guide.html)
 - [Installing, Using, and Removing R
-  Packages](installing-using-and-removing-rpackages.html)
-- [Required Packages for Training](required-packages-for-training.html)
-- [Installing Git Version Control](installing-git-version-control.html)
+  Packages](https://rvcuenca.github.io/R-RStudio-Rtools-Installation-Guide/installing-using-and-removing-rpackages.html)
+- [Required Packages for
+  Training](https://rvcuenca.github.io/R-RStudio-Rtools-Installation-Guide/required-packages-for-training.html)
+- [Installing Git Version
+  Control](https://rvcuenca.github.io/R-RStudio-Rtools-Installation-Guide/installing-git-version-control.html)
 
 We look forward to your participation in the training.
