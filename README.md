@@ -4,7 +4,7 @@
 ***Welcome to the R Training Program!***
 
 To ensure a smooth and productive experience, please install all
-necessary software and packages before the training date, **April 12,
+necessary software and packages before the training date, **April 14,
 2025**. Completing the installation in advance will help us focus
 entirely on the training content without delays.
 
